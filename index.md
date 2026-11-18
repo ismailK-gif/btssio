@@ -8,16 +8,16 @@ Bienvenue sur mon portfolio professionnel réalisé dans le cadre du **BTS Servi
 
 Je m'appelle **Ismail Kaddoumi**, étudiant(e) en **BTS SIO** — option ** SISR ** au sein de **Lycée Henri Matisse**.
 
-Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux / le développement d'applications et la conception logicielle]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
+Passionné(e) par l'informatique, **l'administration des systèmes et réseaux ** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
 
 ---
 
 ## 🎓 Mon Parcours Académique
 
-* **2024 – 2026 : BTS SIO (Option [SISR / SLAM])** — *[Nom de l'établissement, Ville]*
+* **2026 – 2028 : BTS SIO (Option SISR)** — *Lycée Henri Matisse, Cugnaux *
   * Administration des systèmes et réseaux, gestion de parc, développement et cybersécurité.
-* **2024 : Baccalauréat [Général / STI2D / Pro SN-CIEL]** — *[Nom du lycée, Ville]*
-  * Mention *[À compléter]*
+* **2025 : Baccalauréat  STMG ** — *Lycée Pierre d'Aragon, Muret *
+  
 
 ---
 
@@ -28,18 +28,22 @@ Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux 
   * *[Exemple : Mise en place d'une infrastructure réseau segmentée / Développement d'un module métier]*
   * *[Lien vers la fiche de réalisation correspondante]*
 
-### 🏢 Stage de 1re année — *Clinique Sainte-Anne (Montpellier)* *(Mai 2025)*
+### 🏢 Stage de 1re année — *OrdiDreams* *(décembre 2022)*
 * **Missions principales :**
-  * Automatisation du déploiement de l'agent GLPI par GPO Active Directory et remontée d'inventaire.
-  * 👉 Voir la réalisation : [Déploiement d'un agent GLPI](./realisations/gestion_de_parc/fiche_glpi.html)
+  * Installation de Windows et configuration via le BIOS
+  * Installation et configuration de périphériques
+  * Diagnostic de pannes simples
+  
+
+  
 
 ---
 
 ## 🚀 Projet Professionnel
 
 À l'issue de mon BTS SIO, je souhaite :
-* **Poursuite d'études :** Intégrer une **Licence Professionnelle / un Bachelor** en *[Administrateur Systèmes, Réseaux et Sécurité / Conception et Développement d'Applications]* afin d'approfondir mes compétences.
-* **Objectif métier :** Devenir *[Administrateur Systèmes & Réseaux / Développeur Full-Stack / Technicien Cybersécurité]*.
+* **Poursuite d'études :** Intégrer une **Licence Professionnelle** en *Administrateur Systèmes, Réseaux et Sécurité * afin d'approfondir mes compétences.
+* **Objectif métier :** Devenir *Administrateur Systèmes & Réseaux *.
 
 ---
 
